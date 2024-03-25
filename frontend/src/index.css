@@ -9,3 +9,6 @@ body {
   font-family:"Roboto" , serif ;
 
 }
+.image-inverted{
+  filter: invert(100%);
+}
